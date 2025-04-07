@@ -39,4 +39,9 @@ Thanks to their work, I was able to successfully generate and work with TPC-DS d
 
 📝 These articles (written in Japanese) provide further details and context about the process:
 
-- [TPC-DS データ生成の実践（sf100000）](https://qiita.com/Reiji
+- [TPC-DS データ生成の実践（sf100000）](https://qiita.com/ReijiOtake/items/83da40e3e91fc5b923b3)
+- [numPartitionsをテーブルごとに指定する理由と方法](https://qiita.com/ReijiOtake/items/3d6bc52f4c78afee9269)
+
+> If you would like to read these articles in English, please use your browser’s translation feature.
+
+---
