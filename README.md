@@ -1,4 +1,3 @@
-# tpc-ds-dataset-generator-2025-ver-How-to-Unload-Data-to-a-Data-Lake-Using-Databricks-
 
 # TPC-DS Dataset Generator 2025: How to Unload Data to a Data Lake Using Databricks
 
