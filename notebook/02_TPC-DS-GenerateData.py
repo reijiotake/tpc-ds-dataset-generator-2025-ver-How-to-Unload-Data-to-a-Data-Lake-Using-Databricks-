@@ -13,6 +13,9 @@
 -- MAGIC https://qiita.com/ReijiOtake/items/3d6bc52f4c78afee9269<br>
 -- MAGIC ※Sorry, the following article is written in Japanese.
 -- MAGIC If you would like to read it in English, please use your web browser's translation feature.
+-- MAGIC Alternatively, by running the 03 notebook, you can generate each table so that each Parquet file is approximately 500MB in size.
+Feel free to make use of it!
+
 
 -- COMMAND ----------
 
